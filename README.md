@@ -1,6 +1,6 @@
 # ShopEase Admin Framework
 
-![ShopEase Logo](shopease-logo.png)
+![ShopEase Logo](logo.png)
 
 Welcome to **ShopEase Admin Framework**, an innovative solution designed to revolutionize eCommerce management without the bloat and complexity of traditional platforms. ShopEase is tailored to provide a seamless, efficient, and user-friendly experience for online store owners and managers. Here's why ShopEase is your ideal open-source solution for eCommerce:
 
