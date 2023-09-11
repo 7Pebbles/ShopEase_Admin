@@ -124,7 +124,7 @@ We welcome volunteers to help us make ShopEase Admin Framework even better! Whet
 
 If you have any questions, suggestions, or just want to chat, feel free to reach out to us:
 
-- **Email**: [contact@shopeaseframework.com](mailto:contact@shopeaseframework.com)
+- **Email**: [contact@shopeaseframework.com](7pebblesreportedtaste@gmail.com)
 - **Twitter**: [Comming Soon](#)
 - **LinkedIn**: [Commming_Soon](#)
 
