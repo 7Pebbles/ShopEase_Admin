@@ -88,7 +88,7 @@ ShopEase Admin Framework leverages cutting-edge technologies to provide a robust
 
 To ensure a smooth development process, we follow this workflow:
 
-1. **Issue Creation**: We use GitHub Issues to track tasks, enhancements, and bugs. If you identify an issue or have a feature request, please [create a new issue](https://github.com/yourrepository/issues).
+1. **Issue Creation**: We use GitHub Issues to track tasks, enhancements, and bugs. If you identify an issue or have a feature request, please [create a new issue](https://github.com/7Pebbles/ShopEase_Admin/issues).
 
 2. **Fork the Repository**: If you want to contribute, fork the repository to your own GitHub account.
 
@@ -124,7 +124,7 @@ We welcome volunteers to help us make ShopEase Admin Framework even better! Whet
 
 If you have any questions, suggestions, or just want to chat, feel free to reach out to us:
 
-- **Email**: [contact@shopeaseframework.com](7pebblesreportedtaste@gmail.com)
+- **Email**: [7pebblesreportedtaste@gmail.com](7pebblesreportedtaste@gmail.com)
 - **Twitter**: [Comming Soon](#)
 - **LinkedIn**: [Commming_Soon](#)
 
